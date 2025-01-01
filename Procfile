@@ -1,0 +1,1 @@
+web: gunicorn ari_page.wsgi
