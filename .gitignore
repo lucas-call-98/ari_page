@@ -13,3 +13,5 @@ z_steps/
 
 # Ignorar mi carpeta de pruebas
 z_proofs/
+
+db.sqlite3
